@@ -1,8 +1,8 @@
 {
-  "id": "c3-txt-as-md-obsidian",
+  "id": "Edit-CSV–with-Obsidian-md",
   "version": "0.0.1",
-  "description": "Edit csv files as if they were markdown",
-  "name": "C3 - txt as md",
+  "description": "Edit csv files as if they were markdown.",
+  "name": "Edit CSV with Obsidian",
   "author": "cwhiii",
   "authorUrl": "https://github.com/cwhiii",
   "isDesktopOnly": false,

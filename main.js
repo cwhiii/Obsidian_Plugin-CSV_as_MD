@@ -3,6 +3,13 @@
 var obsidian = require('obsidian');
 
 /*! *****************************************************************************
+This plugin (by C.W.holeman III) is a straight up rip of 
+	https://github.com/deathau/txt-as-md-obsidian 
+	by deathau
+But changing it to open .csv files rather than .txt ones, which seems to work. 
+
+
+
 Copyright (c) Microsoft Corporation.
 
 Permission to use, copy, modify, and/or distribute this software for any
