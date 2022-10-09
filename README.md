@@ -1,6 +1,4 @@
 # Obsidian Plugin: Edit CSV files
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/deathau/txt-as-md-obsidian?style=for-the-badge&sort=semver)](https://github.com/deathau/txt-as-md-obsidian/releases/latest)
-![GitHub All Releases](https://img.shields.io/github/downloads/deathau/txt-as-md-obsidian/total?style=for-the-badge)
 
 Stole this from https://github.com/deathau/txt-as-md-obsidian, with miniscule changes. 
  
