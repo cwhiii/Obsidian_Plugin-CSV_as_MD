@@ -1,5 +1,9 @@
 # Obsidian Plugin: Edit CSV files
 
+## OBSOLETE!
+2022-10-27: Please see: [Obsidian Custom File Extensions Plugin](https://github.com/MeepTech/obsidian-custom-file-extensions-plugin), and use that instead. 
+
+---
 Stole this from https://github.com/deathau/txt-as-md-obsidian, with miniscule changes. 
  
 A plugin for [Obsidian](https://obsidian.md) which allows editing of csv files as if they were markdown.
